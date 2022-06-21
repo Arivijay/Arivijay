@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vijay at cockroachlabs
+- 👋 Hi, I’m Vijay at Cockroach Labs
 
 
 <!---
